@@ -48,6 +48,16 @@ rand_distance = random.randint(0, 10)
 turtle.forward(rand_distance)
 ~~~
 
+# Interface  
+
+![Turtle Race](https://github.com/filosoho/Turtle_Race_Game/blob/4368ad776a2110b06724ec5d24129e09b39f13c3/1.png)
+
+![Turtle Race](https://github.com/filosoho/Turtle_Race_Game/blob/4368ad776a2110b06724ec5d24129e09b39f13c3/2.png)
+
+![Turtle Race](https://github.com/filosoho/Turtle_Race_Game/blob/4368ad776a2110b06724ec5d24129e09b39f13c3/3.png)
+
+
+
  # Contributing
 If you would like to contribute to this program, feel free to submit a pull request. Please include a detailed description of the changes made and the reasons for the changes.
 
